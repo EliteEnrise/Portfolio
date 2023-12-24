@@ -53,7 +53,7 @@ https://gyazo.com/a0d016e379523f3a1d5fc7e488b3db73
 ...
 
 ### Miscellaneous
-Proficient with using **Knit** (or anything similar), **Networking Libraries**, **Rojo** (VSC integration), **Roact** (React for ROBLOX), and many more.
+Proficient with using **Knit** (or anything similar), **Networking Libraries**, **Rojo** (VSC integration), **Roact** (React for ROBLOX), **ProfileService** (bloated DataStore module) and many more.
 
 ### Style
 ⚠️ *Caution: If you do not possess any basic knowledge regarding programming, most of the words in here will not make logic.*
