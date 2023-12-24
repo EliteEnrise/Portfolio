@@ -1,6 +1,8 @@
 ## 📆 Contact
 *Discord*: eliteenrise
+
 *Roblox*: EliteEnrise
+
 *E-Mail*: (*unavailable temporarily*)
 
 ## 👋 Short Introduction
