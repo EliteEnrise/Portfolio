@@ -5,6 +5,7 @@ Therefore, **I can do anything and not limited to any specific tasks**.
 
 ## 🌟 Experience
 I have been programming with Roblox Lua for the past *6-7 years* (soon 8), C++/C for more than *4 years*, Python for more than *3 years*, and a newbie to Rust; I have wide knowledge of Reverse Engineering, Software Engineering, Open-Source Intelligence, etc.
+I am constantly up-to-date with any Roblox update and should never use anything that has been replaced or can be done in any way *better*, one example being: template literals (string interpolation).
 
 ## 🛠 Showcase
 I can say confidently that I have done more than **100+** tasks, and I will be displaying a few of what I have done down below:
