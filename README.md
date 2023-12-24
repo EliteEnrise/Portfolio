@@ -50,3 +50,28 @@ https://gyazo.com/a0d016e379523f3a1d5fc7e488b3db73
 - Proficient working with User Interfaces, specifically **anything** excluding complex design
 - Proficient working with Building; specifically **anything** excluding complex design
 ...
+
+### Miscellaneous
+Proficient with using **Knit** (or anything similar), **Networking Libraries**, **Rojo** (VSC integration), **Roact** (React for ROBLOX), and many more.
+
+### Style
+⚠️ *Caution: If you do not possess any basic knowledge regarding programming, most of the words in here will not make logic.*
+
+❓️ **NC** - naming convention
+
+🔎 I use a constant style across all of my career, custom to all languages.
+In Luau, specifically, I use the *PascalCase* NC for globally accessible variables, *camelCase* for anything else, exclusions making constants where I utilize *SCREAMING_SNAKE_CASE*.
+
+*Example of a recursive factorial with additional style addons*
+```lua
+-- Services...
+local Players: Players = game:GetService("Players")
+
+-- Constants...
+local BASE_WALKSPEED: number = 16
+
+-- ...
+local function factorial(num: number)
+    return if num == 1 then num else num * factorial(num - 1)
+end
+```
