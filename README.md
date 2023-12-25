@@ -82,6 +82,8 @@ https://gyazo.com/638a669a80fd6ec2e38f138867632b24 - Anomaly
 
 https://gyazo.com/aef5b11950a4f5f5f39dabaccd1ad3fe - Anomaly
 
+https://gyazo.com/fc1f637bca2a5484acb4ed6bd72ac658 - Death Screen
+
 ...
 
 ### Qualifications / Works
