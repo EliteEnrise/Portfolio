@@ -76,6 +76,12 @@ https://gyazo.com/0a51694ed1102c332342ffc53f945f25 - Dash System
 
 https://gyazo.com/c338069bc5bc7711c4c7de25c7b04eab - Dash System
 
+https://gyazo.com/14fdf40f9273841a8e5d46468797c659 - Anomaly
+
+https://gyazo.com/638a669a80fd6ec2e38f138867632b24 - Anomaly
+
+https://gyazo.com/aef5b11950a4f5f5f39dabaccd1ad3fe - Anomaly
+
 ...
 
 ### Qualifications / Works
