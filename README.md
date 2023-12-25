@@ -18,59 +18,63 @@ I am constantly up-to-date with any Roblox update and should never use anything 
 I can say confidently that I have done more than **100+** tasks, and I will be displaying a few of what I have done down below:
 
 ### Roblox
-https://gyazo.com/b273ac07b6b8165940b9d0898d25bd86
+https://gyazo.com/b273ac07b6b8165940b9d0898d25bd86 - Transformers Work
 
-https://gyazo.com/d32ead2371a4e73849bd5a676eb51174
+https://gyazo.com/d32ead2371a4e73849bd5a676eb51174 - Settings / Interface Work
 
-https://gyazo.com/19d455a46adc3d83b75f045306f9f36e
+https://gyazo.com/19d455a46adc3d83b75f045306f9f36e - Radio System
 
-https://gyazo.com/4976ec9595521c30c2bc73678c149e6d
+https://gyazo.com/4976ec9595521c30c2bc73678c149e6d - Coins Dropping / Physics Work
 
-https://gyazo.com/0f782d6e99c8c1834f8f81586e283c2b
+https://gyazo.com/0f782d6e99c8c1834f8f81586e283c2b - Custom Inventory / Interface Work
 
-https://gyazo.com/34980afe1773aee52cfb63dcf0c68ef0
+https://gyazo.com/34980afe1773aee52cfb63dcf0c68ef0 - Interface Work
 
-https://gyazo.com/9ac68840b49c4f75778b8a525ba15f38
+https://gyazo.com/9ac68840b49c4f75778b8a525ba15f38 - C4 Planting / Bombing
 
-https://gyazo.com/57c1e24aee61ae8a0d5f9681472d2b72
+https://gyazo.com/57c1e24aee61ae8a0d5f9681472d2b72 - Skills / Interface Work
 
-https://gyazo.com/17962245b02c6a7289433902912b44f1
+https://gyazo.com/17962245b02c6a7289433902912b44f1 - Attacking System / Interface Work
 
-https://gyazo.com/8fba6655840f982c2fecc5500028da9f
+https://gyazo.com/8fba6655840f982c2fecc5500028da9f - Skills / Interface Work
 
-https://gyazo.com/70bda3c5d273ea949c6532cc86ad3715
+https://gyazo.com/70bda3c5d273ea949c6532cc86ad3715 - Attacking System
 
-https://gyazo.com/aa362ed9a8780b9cf40782c0f446a4be
+https://gyazo.com/aa362ed9a8780b9cf40782c0f446a4be - Tag System
 
-https://gyazo.com/cdf7976d21aadba439e3ab017c432c79
+https://gyazo.com/cdf7976d21aadba439e3ab017c432c79 - Night Vision Goggles
 
-https://gyazo.com/3418269bc749298779a6e903b257a8a0
+https://gyazo.com/3418269bc749298779a6e903b257a8a0 - Communication
 
-https://gyazo.com/7d09f9e1833a7508c43c94d160391914
+https://gyazo.com/7d09f9e1833a7508c43c94d160391914 - Doors
 
-https://gyazo.com/bfacbd522d31db9101410aa7df341afe
+https://gyazo.com/bfacbd522d31db9101410aa7df341afe - Interface Work
 
-https://gyazo.com/9f73c6ab9e594e162e98d3b227356929
+https://gyazo.com/9f73c6ab9e594e162e98d3b227356929 - Settings / Interface Work
 
-https://gyazo.com/a13bffa34261bf04f61440324c8300a7
+https://gyazo.com/a13bffa34261bf04f61440324c8300a7 - Audio Visualizer
 
-https://gyazo.com/209774c70732a54aeba2b83ffe4e003d
+https://gyazo.com/209774c70732a54aeba2b83ffe4e003d - Custom Prompt / Interface Work
 
-https://gyazo.com/b55e455c780ea33010dc683ff145376b
+https://gyazo.com/b55e455c780ea33010dc683ff145376b - Death Screen / Interface Work
 
-https://gyazo.com/06a953a9dcf8ebc8a780c3b694e37366
+https://gyazo.com/06a953a9dcf8ebc8a780c3b694e37366 - Main Menu / Interface Work
 
-https://gyazo.com/9ee7f34d1212d2c1cc4b39deb324cd2d
+https://gyazo.com/9ee7f34d1212d2c1cc4b39deb324cd2d - Stats System / Interface Work
 
-https://gyazo.com/496e11c364dd28c87ec779b5bda248b8
+https://gyazo.com/496e11c364dd28c87ec779b5bda248b8 - Loading Screen
 
-https://gyazo.com/068aff8d6cb3f596e518a3ed21d39300
+https://gyazo.com/068aff8d6cb3f596e518a3ed21d39300 - Attachments System
 
-https://gyazo.com/587376dd8d21671bca8681c554b4b794
+https://gyazo.com/587376dd8d21671bca8681c554b4b794 - OTS/TPS System
 
-https://gyazo.com/935862ac6fb52acfcc3a9faf3ff14f58
+https://gyazo.com/935862ac6fb52acfcc3a9faf3ff14f58 - FPS System
 
-https://gyazo.com/a0d016e379523f3a1d5fc7e488b3db73
+https://gyazo.com/a0d016e379523f3a1d5fc7e488b3db73 - FPS System
+
+https://gyazo.com/0a51694ed1102c332342ffc53f945f25 - Dash System
+
+https://gyazo.com/c338069bc5bc7711c4c7de25c7b04eab - Dash System
 
 ...
 
