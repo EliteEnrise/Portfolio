@@ -102,6 +102,8 @@ https://gyazo.com/62c91aad666017c0d9345cc4a999cf7b - FPS System
 
 ### Miscellaneous
 Proficient with using **Knit** (or anything similar), **Networking Libraries**, **Rojo** (VSC integration), **Roact** (React for ROBLOX), **ProfileService** (bloated DataStore module) and many more.
+I can use: **OOP** (Object-Oriented Programming), **ECS** (Entity Component System), etc.
+Preferably, I use a "better" version of **OOP**, which is not OOP and different from it. For more information, leave me a DM for explanation if interested or want me to use specific style.
 
 ### Style
 ⚠️ *Caution: If you do not possess any basic knowledge regarding programming, most of the words in here will not make logic.*
