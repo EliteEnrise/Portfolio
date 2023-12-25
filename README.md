@@ -86,6 +86,13 @@ https://gyazo.com/fc1f637bca2a5484acb4ed6bd72ac658 - Death Screen
 
 https://gyazo.com/62c91aad666017c0d9345cc4a999cf7b - FPS System
 
+https://gyazo.com/1ee3db017fb9695909a76e590e0ecf26 - Slider / Interface Work
+
+https://gyazo.com/afc0fab472a9ac7e11e8b258424d55e7 - Puzzle / Custom Prompt
+
+https://gyazo.com/0ba0511dd9041a38c0ae12e66a4cf005 - Clock / Interface Work
+
+https://gyazo.com/b9dac10fa838caec14cf0ea320abc30f - Notifications / Puzzle
 ...
 
 ### Qualifications / Works
