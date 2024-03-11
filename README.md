@@ -5,6 +5,8 @@
 
 *E-Mail*: (*unavailable temporarily*)
 
+Millions of players satisfied, 40,000,000+ visits, more than a thousand concurrent players, ...
+
 ## 👋 Short Introduction
 I am **Enrise**, a fellow proeficient in multiple languages and domains.
 Past my time here on Roblox, I have done practically anything that can be done on the platform, ranging from applied math, complex physics, gun systems, vehicles, frameworks, general systems, simulator games, SCPF games, etc...
