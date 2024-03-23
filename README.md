@@ -1,5 +1,5 @@
 ## 📆 Contact
-*Discord*: eliteenrise
+*Discord*: chiefenrise (Updated recently, my fault for the old broken discord that was here before)
 
 *Roblox*: EliteEnrise
 
